@@ -1,0 +1,116 @@
+body {
+	background-color:#132748;	
+}
+
+h1 {
+	text-align:center;
+}
+
+#startButton {
+	text-align:center;
+	background-color:#057dc2;
+	color:#fff;
+	width:150px;
+	padding:10px;
+	position:relative;
+	top:610px;
+	font-size:16px;
+	font-weight:bold;
+}
+
+#startButton:hover {
+	background-color:#d72027;
+}
+
+
+
+#title {
+	color:#fff;
+}
+
+#timer {
+	margin-left:-15px;
+	font-size:24px;
+	font-weight:bold;
+	color:white;
+	padding:20px;
+
+}
+
+#question {
+	font-size:24px;
+	
+}
+
+#newGame {
+	margin-left:305px;
+}
+
+
+.btn-custom {
+	color:#fff;
+	margin-top:40px;
+	text-align:center;
+	background-color:#057dc2;
+	width:150px;
+	padding:10px;
+	font-size:16px;
+	font-weight:bold;
+}
+
+.btn-custom2 {
+	color:#fff;
+	margin-top:40px;
+	text-align:center;
+	background-color:#057dc2;
+	width:150px;
+	padding:10px;
+	font-size:16px;
+	font-weight:bold;
+	text-align:center;
+}
+
+#results {
+	font-size:18px;
+}
+
+#questionFontWeight {
+	font-size:24px;
+	color:white;
+}
+
+.losserImage {
+	width:400px;
+	margin:0 auto;
+}
+
+.trophy {
+	width:400px;
+	margin:0 auto;
+}
+
+.answerChoice {
+
+}
+
+.btn-sucess {
+	background-color:#d72027;
+}
+
+.answerChoiceContainer {
+
+}
+
+#endResults {
+	color:#fff;
+	font-size:30px;
+	font-weight:bold;
+	text-align:center;
+}
+
+#finalStats {
+	color:#fff;
+	font-size:24px;
+	text-align:center;
+	
+}
