@@ -224,7 +224,7 @@ function startGame() {
 			incorrectChoice++;
 		}
 		questionNumber++;
-		if (questionNumber < 1) {
+		if (questionNumber < 17) {
 			var nextQuestion = setTimeout(newQuestion, 3000); 
 		}
 		else {
